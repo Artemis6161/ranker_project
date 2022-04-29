@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Londrina+Outline&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Londrina+Outline&family=Montserrat&display=swap');
+#background {
+    background-image: url(https://rankerdao.com/static/media/hero-background.c21f0a0e37dbe06c3c3d.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+ 
+}
+#para{
+ font-family: Londrina Outline;
+ color:white;
+ font-size: 100px;
+
+}
+#butt{
+    background-color: #000;
+    color:white;
+    border: none;
+    border-radius: 10px;
+    padding: 15px;
+    font-family: Montserrat;
+}
+#img{
+padding-top: 20px;
+
+}
+body{
+    overflow-x: hidden;
+}

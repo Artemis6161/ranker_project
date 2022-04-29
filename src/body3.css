@@ -1,0 +1,20 @@
+.butt_1{
+    background-color: #000;
+    color:white;
+    border: none;
+    border-radius: 10px;
+    padding: 15px;
+    font-family: Montserrat;
+}
+.para3{
+    font-family: Londrina Outline;
+    color:blueviolet;
+    line-height: 1;
+    font-size: 70px;
+   
+}
+.bold3{
+    font-size: 50px;
+    color:blueviolet;
+    font-family: Montserrat;
+}

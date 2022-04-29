@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Londrina+Outline&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Londrina+Outline&family=Montserrat&display=swap');
+
+#para1{
+    font-family: Londrina Outline;
+    color:blueviolet;
+    line-height: 1;
+    font-size: 70px;
+}
+#para2{
+    font-family: Londrina Outline;
+    color:blueviolet;
+    line-height: 1;
+    font-size: 70px;
+}
+#bold{
+    font-size: 50px;
+    color:blueviolet;
+    font-family: Montserrat;
+}
+#bold1{
+    font-size: 50px;
+    color:blueviolet;
+    font-family: Montserrat;
+}
+#span{
+    color:blueviolet;
+}
+.grad{
+background-color: blueviolet;
+/* border-radius: 10px;
+padding: 20px;
+padding-bottom: 50px;
+width: 100px;
+height:50px;
+overflow: hidden; */
+margin: auto;
+margin-top: 10px;
+margin-left: 10px;
+padding: 10px;
+width: 150px
+}
+#text{
+    color:blueviolet;
+    font-family: Montserrat;
+  
+}
+.card{
+    padding:30px;
+}
